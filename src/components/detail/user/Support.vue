@@ -2,8 +2,8 @@
     <div class="content support">
 
         <!-- Guide -->
-      <h2 class="title" style="margin-bottom: 30px;">Orientation in 10 minutes</h2>
-      <div class="sub-title"><font-awesome-icon  :icon="['fab', 'youtube']"/>
+      <h2 class="title">Orientation in 10 minutes</h2>
+      <div class="sub-title" style="margin-top: 10px;"><font-awesome-icon  :icon="['fab', 'youtube']"/>
         <a href="https://youtu.be/HqAR5BK78RM" target="_blank" style="display: inline-block; vertical-align: middle;">Kikit School's learning approach and field usage</a></div>
       <h2 class="title" style="margin-bottom: 30px;">Guides and Tutorial Videos</h2>
         <!-- English -->
